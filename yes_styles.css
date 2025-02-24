@@ -6,6 +6,8 @@ body {
     margin: 0;
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
+    background: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhOGwwdnpudGd0YWE4OHc3em9qaXc3Mmo0ZGU5dWJoOWgwNGo4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4EEIH5kKjPqbe7h1qw/giphy.gif') no-repeat center center fixed;
+    background-size: cover;
 }
 
 .container {
@@ -13,8 +15,10 @@ body {
 }
 
 .header_text {
-    font-size: 3em;
-    color: #66d32f;
+    font-size: 5em;
+    font-style: bold;
+    text-decoration: underline;
+    color: #193709;
 }
 
 .gif_container img {
